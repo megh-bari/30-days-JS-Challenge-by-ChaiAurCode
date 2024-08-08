@@ -6,7 +6,7 @@ Welcome to the **30 Days of JavaScript Challenge**! This project is a clone of t
 
 This repository contains a collection of 30 JavaScript challenges, each with a unique topic ranging from basic concepts to advanced techniques. Each day's challenge includes a description, a solution link, and a visual preview.
 
-## Get Started Today: [30-Days-JS-Challenge]()
+## Get Started Today ⏩: [30-Days-JS-Challenge](https://30-days-js-challenge-sigma.vercel.app/)
 
 ## Credits
 
@@ -19,4 +19,4 @@ The challenges in this project are created by **Chai Aur Code** (Hitesh Choudhar
 
 - **Contributors**: [Megh Bari](https://github.com/megh-bari) contributer who have helped improve this project.
 
-Happy coding! 🚀
+## Happy coding! 🚀
