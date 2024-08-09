@@ -242,6 +242,15 @@ const challenges = [
     solutionLink:
       "https://github.com/megh-bari/30-days-javascript-challenge/tree/main/Day%2027%20-%20Task%20Management%20App",
   },
+  {
+    id: 28,
+    thumbnail: "thumbnail.png",
+    image: "Images/day28.png",
+    title: "Project 5: Ecommerce Website",
+    day: "Day - 28",
+    solutionLink:
+      "https://github.com/megh-bari/30-days-javascript-challenge/tree/main/Day%2028%20-%20Ecommerce%20Website",
+  },
 ];
 
 const challengesContainer = document.getElementById("challenges-container");
