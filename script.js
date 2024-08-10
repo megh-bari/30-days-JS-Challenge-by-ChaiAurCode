@@ -251,6 +251,15 @@ const challenges = [
     solutionLink:
       "https://github.com/megh-bari/30-days-javascript-challenge/tree/main/Day%2028%20-%20Ecommerce%20Website",
   },
+  {
+    id: 29,
+    thumbnail: "thumbnail.png",
+    image: "Images/day29.png",
+    title: "Project 6: Social Media Dashboard",
+    day: "Day - 29",
+    solutionLink:
+      "https://github.com/megh-bari/30-days-javascript-challenge/tree/main/Day%2029%20-%20Social%20Media%20Dashboard",
+  },
 ];
 
 const challengesContainer = document.getElementById("challenges-container");
