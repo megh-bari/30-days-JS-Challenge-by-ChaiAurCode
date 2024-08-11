@@ -260,6 +260,15 @@ const challenges = [
     solutionLink:
       "https://github.com/megh-bari/30-days-javascript-challenge/tree/main/Day%2029%20-%20Social%20Media%20Dashboard",
   },
+  {
+    id: 30,
+    thumbnail: "thumbnail.png",
+    image: "Images/day30.png",
+    title: "Project 6: Social Media Dashboard",
+    day: "Day - 30",
+    solutionLink:
+      "https://github.com/megh-bari/30-days-javascript-challenge/tree/main/Day%2029%20-%20Social%20Media%20Dashboard",
+  },
 ];
 
 const challengesContainer = document.getElementById("challenges-container");
